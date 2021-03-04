@@ -1,0 +1,7 @@
+1) the purpose of the log message is to provide a concise and informative message of what changes have been made in the commit command.
+
+2) a short but concise and informative message 
+
+3) every time you are absolutely certain that you want to save a directory or file.
+
+4) True
